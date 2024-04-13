@@ -1,0 +1,26 @@
+{
+  "name": "@dkshs/prettier-config",
+  "version": "1.0.0",
+  "description": "DKSHS's Prettier config.",
+  "author": "DKSHS",
+  "license": "MIT",
+  "homepage": "https://github.com/dkshs/prettier-config#readme",
+  "bugs": {
+    "url": "https://github.com/dkshs/prettier-config/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkshs/prettier-config.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "prettier": "./index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
