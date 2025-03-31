@@ -1,16 +1,20 @@
 {
-  "name": "@dkshs/prettier-config",
+  "name": "@ncontiero/prettier-config",
   "version": "1.0.0",
-  "description": "DKSHS's Prettier config.",
-  "author": "DKSHS",
+  "description": "Nicolas's Prettier config.",
+  "author": {
+    "name": "Nicolas Contiero",
+    "url": "https://github.com/ncontiero",
+    "email": "contact@ncontiero.com"
+  },
   "license": "MIT",
-  "homepage": "https://github.com/dkshs/prettier-config#readme",
+  "homepage": "https://github.com/ncontiero/prettier-config#readme",
   "bugs": {
-    "url": "https://github.com/dkshs/prettier-config/issues"
+    "url": "https://github.com/ncontiero/prettier-config/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dkshs/prettier-config.git"
+    "url": "git+https://github.com/ncontiero/prettier-config.git"
   },
   "files": [
     "index.js"
